@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m working as DevOps Technical Lead at Fortum Oyj. You can have a look at my projects below!
+I’m working as DevOps Technical Lead at [Fortum Oyj](https://fortum.com). You can have a look at my projects below!
 
 ### Activities
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=dhaval-vithalani&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
